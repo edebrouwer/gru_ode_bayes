@@ -1,0 +1,7 @@
+*.pdf
+*DS_Store*
+*egg-info*
+*__pycache__*
+*results.csv*
+*.pt*
+*.npy*
